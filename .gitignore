@@ -4,3 +4,17 @@
 /face_env
 /imagesAnalysees
 /Présentation effectifs.xlsx
+/faces
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+audits/
+.claude/
